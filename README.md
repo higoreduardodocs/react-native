@@ -1,7 +1,5 @@
 Ecommerce application developed in React Native and Express
 
-![Cover](./assets/cover.png)
-
 > :fire: Development
 
 ```
@@ -18,3 +16,5 @@ Ecommerce application developed in React Native and Express
 - Server port : SERVER_PORT `server`
 
 > :thought_balloon: `Sujan Anand`
+
+![Cover](./assets/cover.png)
