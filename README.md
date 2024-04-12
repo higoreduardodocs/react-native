@@ -1,8 +1,8 @@
 > :mobile_phone_off: Ecommerce application developed in React Native and Express
 
-![Cover](./assets/cover.png ><)
+![Cover](./assets/cover.png)
 
-> :fire: `Development`
+> :fire: Development
 
 ```
   cd mobile && yarn start
@@ -11,7 +11,7 @@
   cd server && yarn start
 ```
 
-> :gear: `Environment Variables`
+> :gear: Environment Variables
 
 - Server URL: API_URL `mobile`
 - Mongo URL: MONGO_URI `server`
