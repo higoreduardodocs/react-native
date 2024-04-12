@@ -1,4 +1,4 @@
-> :mobile_phone_off: Ecommerce application developed in React Native and Express
+:mobile_phone_off: Ecommerce application developed in React Native and Express
 
 ![Cover](./assets/cover.png)
 
